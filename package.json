@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Your Name",
+  "author": "Prakash Naidu",
   "license": "ISC",
   "private": true,
   "engines": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/proxy-server.git"
+    "url": "https://github.com/naiduprakash/proxy-server.git"
   },
   "dependencies": {
     "axios": "^1.9.0",
