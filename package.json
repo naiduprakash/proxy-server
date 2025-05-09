@@ -2,7 +2,7 @@
   "name":"proxy-server",
   "type": "module",
   "version": "1.0.0",
-  "description": "A simple proxy server using Express and Axios",
+  "description": "A simple proxy function",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
